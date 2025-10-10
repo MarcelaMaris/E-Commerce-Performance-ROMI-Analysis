@@ -83,5 +83,3 @@ Developed as part of the **TripleTen Data Analytics Bootcamp**, the analysis exp
 - **Version Control:** Git & GitHub  
 
 ---
-
-## 📂 Folder Structure
