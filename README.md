@@ -6,9 +6,9 @@
 ![Cohort](https://img.shields.io/badge/Analysis-Cohort%20%26%20ROMI-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+This project was developed as part of the **Data Analytics Bootcamp at [TripleTen](https://tripleten.com)**.  
 This project analyzes **marketing efficiency, user behavior, and financial performance** of the **Y.Afisha e-commerce platform**, combining cohort analysis, LTV/CAC computation, and Return on Marketing Investment (ROMI) evaluation.
-
-Developed as part of the **TripleTen Data Analytics Bootcamp**, the analysis explores **traffic sources, conversion dynamics, retention, and profitability** — supporting data-driven marketing decisions.
+The analysis explores **traffic sources, conversion dynamics, retention, and profitability** — supporting data-driven marketing decisions.
 
 💻 **Repository:** [https://github.com/MarcelaMaris/Project-8-Tripleten-YAfisha](https://github.com/MarcelaMaris/Project-8-Tripleten-YAfisha)
 
