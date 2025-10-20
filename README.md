@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Performance & ROMI Analysis — Y.Afisha
+# 🛒 E-Commerce Performance & ROMI Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Pandas](https://img.shields.io/badge/Library-Pandas%2C%20Matplotlib%2C%20Seaborn-yellow)
