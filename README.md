@@ -1,3 +1,4 @@
+![E-Commerce Analytics Cover](cover-ecommerce2.png)
 
 # 🛒 E-Commerce Performance & ROMI Analysis
 
