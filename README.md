@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/cover.png" width="100%">
-</p>
 
 # 🛒 E-Commerce Performance & ROMI Analysis
 
