@@ -1,4 +1,7 @@
-![E-Commerce Analytics Cover](cover-ecommerce2.png)
+<p align="center">
+  <img src="cover-ecommerce2.png" width="100%" alt="E-Commerce Analytics Dashboard cover">
+</p>
+
 
 # 🛒 E-Commerce Performance & ROMI Analysis
 
