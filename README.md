@@ -19,7 +19,7 @@ The analysis explores **traffic sources, conversion dynamics, retention, and pro
 
 ---
 
-## <img src="objectives.svg" width="44">  &nbsp;&nbsp;Objectives
+## <img src="objectives(3).svg" width="44">  &nbsp;&nbsp;Objectives
 
 
 
