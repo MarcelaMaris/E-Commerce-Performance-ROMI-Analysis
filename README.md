@@ -11,10 +11,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-0A3756?style=flat&logo=jupyter&logoColor=F5F7FA&labelColor=E8AA3A)
 ![Cohorts](https://img.shields.io/badge/Analysis-Cohorts-0A3756?style=flat&logo=academia&logoColor=F5F7FA&labelColor=E8AA3A)
 
-
-
-
-
 This project was developed as part of the **Data Analytics Bootcamp at [TripleTen](https://tripleten.com)**.  
 This project analyzes **marketing efficiency, user behavior, and financial performance** of the **Y.Afisha e-commerce platform**, combining cohort analysis, LTV/CAC computation, and Return on Marketing Investment (ROMI) evaluation.
 The analysis explores **traffic sources, conversion dynamics, retention, and profitability** — supporting data-driven marketing decisions.
@@ -22,8 +18,6 @@ The analysis explores **traffic sources, conversion dynamics, retention, and pro
 💻 **Repository:** [https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis](https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis)
 
 ---
-<h2><img src="https://img.shields.io/badge/-★-E8AA3A?style=flat-square&labelColor=0A3756&color=0A3756" width="12"> Objectives</h2>
-
 ## 🎯 Objectives
 - Examine the efficiency of each **marketing source** through CAC, ROI, and ROMI.  
 - Understand **conversion and retention behavior** by cohort and channel.  
