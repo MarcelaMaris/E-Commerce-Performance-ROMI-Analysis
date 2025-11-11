@@ -15,7 +15,7 @@ This project was developed as part of the **Data Analytics Bootcamp at [TripleTe
 This project analyzes **marketing efficiency, user behavior, and financial performance** of the **Y.Afisha e-commerce platform**, combining cohort analysis, LTV/CAC computation, and Return on Marketing Investment (ROMI) evaluation.
 The analysis explores **traffic sources, conversion dynamics, retention, and profitability** — supporting data-driven marketing decisions.
 
-💻 **Repository:** [https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis](https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis)
+**Repository:** [https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis](https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis)
 
 ---
 
