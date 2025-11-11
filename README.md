@@ -4,20 +4,21 @@
 
 
 ## <img src="eccommerce.svg" width="30">  &nbsp;&nbsp;E-Commerce Performance & ROMI Analysis
-
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-0A3756?style=flat&logo=python&logoColor=F5F7FA&labelColor=E8AA3A)
 ![Pandas](https://img.shields.io/badge/Pandas-lib-0A3756?style=flat&logo=pandas&logoColor=F5F7FA&labelColor=E8AA3A)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-0A3756?style=flat&logo=jupyter&logoColor=F5F7FA&labelColor=E8AA3A)
 ![Cohorts](https://img.shields.io/badge/Analysis-Cohorts-0A3756?style=flat&logo=academia&logoColor=F5F7FA&labelColor=E8AA3A)
 
-This project was developed as part of the **Data Analytics Bootcamp at [TripleTen](https://tripleten.com)**.  
-This project analyzes **marketing efficiency, user behavior, and financial performance** of the **Y.Afisha e-commerce platform**, combining cohort analysis, LTV/CAC computation, and Return on Marketing Investment (ROMI) evaluation.
-The analysis explores **traffic sources, conversion dynamics, retention, and profitability** — supporting data-driven marketing decisions.
-
-**Repository:** [https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis](https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis)
+>This project was developed as part of the **Data Analytics Bootcamp at [TripleTen](https://tripleten.com)**.  
+>This project analyzes **marketing efficiency, user behavior, and financial performance** of the **Y.Afisha e-commerce platform**, combining cohort analysis, LTV/CAC computation, and Return on Marketing Investment (ROMI) evaluation.
+>The analysis explores **traffic sources, conversion dynamics, retention, and profitability** — supporting data-driven marketing decisions.
+>
+>**Repository:** [https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis](https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis)
 
 ---
+<br>
 
 ## <img src="objectives.svg" width="30">  &nbsp;&nbsp;Objectives
 
@@ -28,7 +29,7 @@ The analysis explores **traffic sources, conversion dynamics, retention, and pro
 
 ---
 
-## <img src="features.svg" width="30">  &nbsp;&nbsp;Analysis Fetures
+## <img src="features.svg" width="30">  &nbsp;&nbsp;Feature Analysis
 - **Cohort Analysis:** user segmentation by first purchase month to track retention and revenue over time.  
 - **LTV & CAC Computation:** evaluates profitability by acquisition channel and month.  
 - **ROMI Calculation:** measures marketing return by comparing LTV and CAC over cohorts.  
@@ -87,5 +88,11 @@ The analysis explores **traffic sources, conversion dynamics, retention, and pro
 - **Data Management:** CSV files (`data/samples/`), clean reproducible workflow with Pathlib  
 - **Visualization:** Cohort heatmaps, retention curves, ROMI matrices  
 - **Version Control:** Git & GitHub  
+---
+
+<p align="center">
+  <sub>📊 Designed & developed by <b>Marcela Maris</b> — Data Analytics Portfolio</sub><br>
+  <sub><i>Marketing Analytics • Cohort Insights • ROI Optimisation</i></sub>
+</p>
 
 ---
