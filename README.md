@@ -18,10 +18,9 @@ The analysis explores **traffic sources, conversion dynamics, retention, and pro
 💻 **Repository:** [https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis](https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis)
 
 ---
-<h2>
-  <img src="objectives.svg" width="30" style="vertical-align:middle; margin-right:8px;">
-  Objectives
-</h2>
+
+## <img src="objectives.svg" width="44">  &nbsp;&nbsp;Objectives
+
 
 
 ## 🎯 Objectives
