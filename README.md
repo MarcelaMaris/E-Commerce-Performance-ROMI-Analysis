@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover-ecommerce2.png" width="100%" alt="E-Commerce Analytics Dashboard cover">
+  <img src="cover-ecommerce3.png" width="100%" alt="E-Commerce Analytics Dashboard cover">
 </p>
 
 
