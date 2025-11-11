@@ -19,11 +19,8 @@ The analysis explores **traffic sources, conversion dynamics, retention, and pro
 
 ---
 
-## <img src="objectives(3).svg" width="44">  &nbsp;&nbsp;Objectives
+## <img src="Objectives (2).svg" width="30">  &nbsp;&nbsp;Objectives
 
-
-
-## 🎯 Objectives
 - Examine the efficiency of each **marketing source** through CAC, ROI, and ROMI.  
 - Understand **conversion and retention behavior** by cohort and channel.  
 - Calculate **Lifetime Value (LTV)** and assess the balance between acquisition cost and long-term revenue.  
