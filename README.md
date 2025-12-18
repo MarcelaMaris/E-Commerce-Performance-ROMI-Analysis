@@ -18,8 +18,6 @@
 >**Repository:** [https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis](https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis)
 
 ---
-<br>
-
 ## <img src="icons/objectives.png" width="30">  &nbsp;&nbsp;Objectives
 
 - Examine the efficiency of each **marketing source** through CAC, ROI, and ROMI.  
